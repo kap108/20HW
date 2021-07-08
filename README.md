@@ -1,1 +1,4 @@
 # 20HW
+## My new startup has created its own Ethereum-compatible blockchain to help connect financial institutions, and the team wants to build smart contracts to automate some company finances to make everyone's lives easier, increase transparency, and to make accounting and auditing practically automatic!
+
+### This contract demo'd is to pay my Associate-level employees quickly and easily.
